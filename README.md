@@ -1,6 +1,6 @@
 # SmartTurpe
 
-**Smart TURPE** est un programme Python conçu pour automatiser la lecture de factures TURPE (Tarif d’Utilisation des Réseaux Publics d'Électricité) au format PDF, en extraire les données clés, et générer automatiquement un fichier Excel compatible avec l'importation dans le logiciel de comptabilité **Sage**.
+**Smart TURPE** est un programme Python conçu pour automatiser la lecture de factures TURPE (Tarif d’Utilisation des Réseaux Publics d'Électricité) au format PDF, en extraire les données clés, et générer automatiquement un fichier Excel ainsi qu'un fichier CSV compatible avec l'importation dans le logiciel de comptabilité **Sage**.
 
 ## 📌 Objectif
 
