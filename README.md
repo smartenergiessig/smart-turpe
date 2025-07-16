@@ -37,3 +37,9 @@ Prérequis : Python 3.8+ recommandé. Ensuite :
 git clone https://github.com/ton-utilisateur/smart-turpe.git
 cd smart-turpe
 pip install -r requirements.txt
+
+## *⚙️ Utilisation*
+
+Il suffit de placer le fichier GestionSPV.xlsx de l'exploitation dans le même fichier que le fichier python ou bien l'exécutable et ensuite d'exécuter le code.
+Voir le fichier de Documentation Technique pour la création de l'exécutable (.exe).
+
