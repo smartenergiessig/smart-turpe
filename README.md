@@ -13,18 +13,21 @@ Faciliter et fiabiliser l'intégration comptable des factures TURPE en :
 
 - 📥 Lecture automatique de factures TURPE au format PDF
 - 🔍 Extraction des informations utiles : numéro de facture, date, montant HT/TTC, code client, période de consommation, etc.
-- 📊 Génération d’un fichier Excel conforme aux exigences de Sage
+- 📊 Génération d’un fichier Excel et CSV conforme aux exigences de Sage
 - 📁 Traitement en lot de plusieurs factures à la fois
 - 🧾 Journalisation des erreurs ou anomalies de lecture
 
 ## 🗂️ Exemple de données extraites
 
-- Référence facture
-- Code client / site
-- Date d’émission
-- Montant HT / TVA / TTC
-- Période de facturation
-- Fournisseur
+- Cardi
+- Mapping
+- Société et/ou
+- Etablissement
+- Date d'écriture
+- Code compte
+- N° pièce
+- Montant EUR
+
 
 ## 🚀 Installation
 
